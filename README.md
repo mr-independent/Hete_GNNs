@@ -1,1 +1,1 @@
-# Hete_GNNs
+# Aspect Sentiment Analysis with Heterogeneous Graph Neural Networks
